@@ -1,0 +1,38 @@
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csprojAssemblyReference.cache
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.Form1.resources
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.Properties.Resources.resources
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.GenerateResource.cache
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.CoreCompileInputs.cache
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\ogrKayit.exe.config
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\ogrKayit.exe
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\ogrKayit.pdb
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\EntityFramework.dll
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.dll
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\EntityFramework.xml
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.xml
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.CopyComplete
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.exe
+C:\Users\DİZMAN\Desktop\ogrKayit\ogrKayit\obj\Debug\ogrKayit.pdb
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\ogrKayit.exe.config
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\ogrKayit.exe
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\ogrKayit.pdb
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\EntityFramework.dll
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.dll
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\EntityFramework.xml
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\bin\Debug\System.Data.SQLite.xml
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csprojAssemblyReference.cache
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.Form1.resources
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.Properties.Resources.resources
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.GenerateResource.cache
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.CoreCompileInputs.cache
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.csproj.CopyComplete
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.exe
+C:\Users\DİZMAN\Desktop\Entegre Yazılım Staj Dosyası\ogrKayit\ogrKayit\obj\Debug\ogrKayit.pdb
